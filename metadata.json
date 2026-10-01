@@ -1,0 +1,6 @@
+{
+  "name": "Salim",
+  "description": "Minimal, premium native Android messaging and SMS application with real telephony integration and conversation management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
